@@ -1,0 +1,100 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+.nav-item {
+    letter-spacing: .2en;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.dropdown-item {
+    font-size: 14px;
+    letter-spacing: .2en;
+    text-transform: uppercase;
+
+}
+
+.my_footer {
+    background-color: white;
+    height: 60px;
+}
+.my_footer {
+    padding-top: 20px;
+    font-size: 15px;
+}
+.my_row_class {
+    padding-top: 15px;
+}
+.my_row_class .mx-auto { 
+    color: #000;
+    font-size: 17px;
+}
+.my_row_class .mx-auto p a { 
+    color: #000;
+    font-size: 12px;
+    text-decoration: none;
+}
+.my_image {
+    width: 100%;
+}
+
+.my_title {
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: .2en;
+}
+
+.my_image_padding{
+    padding-top: 4px;
+}
+.my_bottom_margin {
+    margin-bottom: 19px;
+}
+.card-body h4 {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: .2en;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.hover:hover{
+    opacity: 0.5;
+}
+.card-body:hover{
+    opacity: 0.5;
+}
+.card-img-top {
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+}
+.my_prod_row_class {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.my_prod_row_class .mx-auto{
+    color: #000;
+    font-size: 17px;
+}
+
+.my_prod_row_class .mx-auto p a{
+    color: #000;
+    font-size: 12px;
+    text-decoration: none;
+}
+.my_prod_title {
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2en;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.my_prod_text{
+    padding-right: 20px;
+    
+}
+.my_search_text {
+    padding-top: 20px;
+}
